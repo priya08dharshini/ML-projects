@@ -79,7 +79,7 @@ ML-projects/
 ├── requirements.txt    # Project dependencies
 ├── README.md           # Project documentation
 ├── screenshots/        # Folder containing screenshots (optional)
-└── data/               # Example datasets (optional)
+└── uploded_file.csv/   # Example datasets 
 ```
 
 # Technologies Used
